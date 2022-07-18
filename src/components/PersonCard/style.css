@@ -1,0 +1,14 @@
+.UserCard{
+    padding: 20px;
+    background-color: blueviolet;
+    width: fit-content;
+    border-radius: 5px;
+    margin: 10px auto;
+
+}
+
+.userName{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: bold;
+}
